@@ -21,7 +21,7 @@ This project is broken out into a number of private repositories:
 Initial thoughts on tech stack:
 * Node-RED for process flow builder
 * Github Packages / Verdaccio for node functionality
-* Remix Labs (?still pre-launch) for Questionnare / Data Enhancement
-* Node/React UI
+* Remix Labs / Glide / Softr for Questionnare / Data Enhancement
+* Node / React / D3.js for the UI
 * NodeJS / Koa for UI Stack
 * C# for backend domain layers (because it's multithreaded)
